@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>jt9.kml</name>
+    <Placemark>
+      <name>Fushimi Inari Shrine, Kyoto, Japan</name>
+      <description><![CDATA[The first stop on my vacation was the Fushimi Inari Shrine (shrine of the fox god) in Kyoto.<br>
+<a href="http://kml.lover.googlepages.com/inari.jpg"><img src="http://kml.lover.googlepages.com/sinari.jpg" width=188 height=250></a>]]></description>
+      <LookAt>
+        <longitude>135.7772426691194</longitude>
+        <latitude>34.96874726250346</latitude>
+        <range>1000.000000000137</range>
+        <tilt>-4.052980830645325e-011</tilt>
+        <heading>-0.003634937326446536</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.7784757856101,34.96898946974228,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hosen-ji Temple, Japan</name>
+      <description><![CDATA[This is a 700 year old pine tree at the beautiful Zen Buddhist temple.<br>
+<a href="http://kml.lover.googlepages.com/700tree.jpg"><img src="http://kml.lover.googlepages.com/s700tree.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>135.6126463100987</longitude>
+        <latitude>35.0115007174609</latitude>
+        <range>1000.000000002967</range>
+        <tilt>-4.052821842966761e-011</tilt>
+        <heading>0.0008350888930608689</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.6124018287323,35.01145415299595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heian-jingu, Kyoto, Japan</name>
+      <description><![CDATA[The huge red gate at the entrance to Heian-jingu temple in Kyoto.<br>
+<a href="http://kml.lover.googlepages.com/heianjingu.jpg"><img src="http://kml.lover.googlepages.com/sheianjingu.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>135.7832508538224</longitude>
+        <latitude>35.01239118992009</latitude>
+        <range>1000.000000005089</range>
+        <tilt>3.039815125832689e-011</tilt>
+        <heading>0.0005088844735448188</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.7826083750156,35.01267990924781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cherry blossoms in Kyoto, Japan</name>
+      <description><![CDATA[The streets were lined with blooming <i>sakura</i> cherry blossoms.<br>
+<a href="http://kml.lover.googlepages.com/sakura.jpg"><img src="http://kml.lover.googlepages.com/ssakura.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>135.7513645390021</longitude>
+        <latitude>35.01099485254284</latitude>
+        <range>1000.000000000137</range>
+        <tilt>3.039815135005807e-011</tilt>
+        <heading>0.0007828899413914476</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.7505742534024,35.01228942785075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bunny-shaped desserts in Kyoto, Japan</name>
+      <description><![CDATA[I bought these at the Kyoto University cafeteria, but they were too cute to eat!<br>
+<a href="http://kml.lover.googlepages.com/rabbits.jpg"><img src="http://kml.lover.googlepages.com/srabbits.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>135.7808380126953</longitude>
+        <latitude>35.02616500854494</latitude>
+        <range>1000.000000000137</range>
+        <tilt>-2.026490415294202e-011</tilt>
+        <heading>-1.597120062980968e-014</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.7808380126953,35.02616500854494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iwatayama Monkey Park, Japan</name>
+      <description><![CDATA[A park just outside of Kyoto filled with macaque monkeys.<br>
+<a href="http://kml.lover.googlepages.com/monkey1.jpg"><img src="http://kml.lover.googlepages.com/smonkey1.jpg" width=200 height=150></a><br>
+This one looks like it's about to go fishing...<br>
+<a href="http://kml.lover.googlepages.com/monkey2.jpg"><img src="http://kml.lover.googlepages.com/smonkey2.jpg" width=200 height=150></a>]]></description>
+      <LookAt>
+        <longitude>135.6860961914063</longitude>
+        <latitude>35.00973892211916</latitude>
+        <range>1000.000000000137</range>
+        <tilt>6.079471245882605e-011</tilt>
+        <heading>-1.597081151106753e-014</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.6860961914063,35.00973892211916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Todaiji Temple at Nara, Japan</name>
+      <description><![CDATA[After Kyoto, I visited Nara.  This is the Todaiji Temple, which my tour guide told me is the largest wooden building in the world!<br>
+<a href="http://kml.lover.googlepages.com/daibutsuden.jpg"><img src="http://kml.lover.googlepages.com/sdaibutsuden.jpg" height=188 width=250></a>]]></description>
+      <LookAt id="khLookAt736">
+        <longitude>135.8409772971279</longitude>
+        <latitude>34.6901175392807</latitude>
+        <range>1000.00000002065</range>
+        <tilt>-4.052980830517923e-011</tilt>
+        <heading>-3.212998066223695e-005</heading>
+      </LookAt>
+      <Point id="khPoint737">
+        <coordinates>135.8397936609637,34.6883945424179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Giant Buddha statue at Todaiji Temple</name>
+      <description><![CDATA[Todaiji Temple is home to the world's largest gilded bronze buddha statue.<br>
+<a href="http://kml.lover.googlepages.com/daibutsu.jpg"><img src="http://kml.lover.googlepages.com/sdaibutsu.jpg" width=188 height=250></a>]]></description>
+      <LookAt>
+        <longitude>135.8409772971279</longitude>
+        <latitude>34.6901175392807</latitude>
+        <range>1000.00000002065</range>
+        <tilt>-4.052980830517923e-011</tilt>
+        <heading>-3.212998066223695e-005</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.8398276312685,34.6892327563212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deer running amuck at Todaiji Temple</name>
+      <description><![CDATA[Todaiji Temple is overrun with deer.  They're used to humans and roam freely around the temple grounds.  You can even buy special biscuits to feed them.<br>
+<a href="http://kml.lover.googlepages.com/deernara.jpg"><img src="http://kml.lover.googlepages.com/sdeernara.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>135.8409772971279</longitude>
+        <latitude>34.6901175392807</latitude>
+        <range>1000.00000002065</range>
+        <tilt>-4.052980830517923e-011</tilt>
+        <heading>-3.212998066223695e-005</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.8402920332148,34.68865532547861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pillar hole at Todaiji Temple</name>
+      <description><![CDATA[One of the pillars at Todaiji Temple has a hole in it.  I was told that if you wiggle through the hole, it's supposed to bring you good luck.<br>
+<a href="http://kml.lover.googlepages.com/hole.jpg"><img src="http://kml.lover.googlepages.com/shole.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>135.8409772971279</longitude>
+        <latitude>34.6901175392807</latitude>
+        <range>1000.00000002065</range>
+        <tilt>-4.052980830517923e-011</tilt>
+        <heading>-3.212998066223695e-005</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.8400881494773,34.68899060896701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tokyo Tower</name>
+      <description><![CDATA[The next stop on my vacation was Tokyo.  I was greeted by Tokyo Tower -- Tokyo's colourful version of the Eiffel Tower.
+<a href="http://kml.lover.googlepages.com/tokyotower.jpg"><img src="http://kml.lover.googlepages.com/stokyotower.jpg" width=188 height=250></a>]]></description>
+      <LookAt>
+        <longitude>139.7452850341797</longitude>
+        <latitude>35.65861129760743</latitude>
+        <range>1000.000000004381</range>
+        <tilt>-4.052980830576938e-011</tilt>
+        <heading>-1.402917275284344e-014</heading>
+      </LookAt>
+      <Point>
+        <coordinates>139.7452850341797,35.65861129760743,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spider monster attacks Tokyo!</name>
+      <description><![CDATA[
+<a href="http://kml.lover.googlepages.com/monster.jpg"><img src="http://kml.lover.googlepages.com/smonster.jpg" width=200 height=150></a><br>
+Just kidding.  It's just the shadow of a large sculpture at Roppongi Hills.<br>
+<a href="http://kml.lover.googlepages.com/monster2.jpg"><img src="http://kml.lover.googlepages.com/smonster2.jpg" width=200 height=150></a>]]></description>
+      <LookAt>
+        <longitude>139.7298288175233</longitude>
+        <latitude>35.65967416748425</latitude>
+        <range>1077.533109986498</range>
+        <tilt>4.166861132109605e-011</tilt>
+        <heading>0.0003418740975372432</heading>
+      </LookAt>
+      <Point>
+        <coordinates>139.7250202658962,35.65967416640459,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fireworks over Tokyo</name>
+      <description><![CDATA[There was a big fireworks festival when I visited.  It was so crowded!<br>
+<a href="http://kml.lover.googlepages.com/fireworks.jpg"><img src="http://kml.lover.googlepages.com/sfireworks.jpg" width=188 height=250></a>]]></description>
+      <LookAt id="khLookAt706">
+        <longitude>139.7778344667797</longitude>
+        <latitude>35.66580857825493</latitude>
+        <range>5553.123723343779</range>
+        <tilt>3.650584048236089e-012</tilt>
+        <heading>0.004565262925674943</heading>
+      </LookAt>
+      <Point id="khPoint707">
+        <coordinates>139.7778344667797,35.66580857825493,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>More fireworks over Tokyo</name>
+      <description><![CDATA[Another fireworks shot.<br>
+<a href="http://kml.lover.googlepages.com/fireworks2.jpg"><img src="http://kml.lover.googlepages.com/sfireworks2.jpg" width=188 height=250></a>]]></description>
+      <LookAt>
+        <longitude>139.7778344667797</longitude>
+        <latitude>35.66580857826143</latitude>
+        <range>5553.123723342364</range>
+        <tilt>1.698354280478108e-011</tilt>
+        <heading>0.004565262925649806</heading>
+      </LookAt>
+      <Point>
+        <coordinates>139.7746834245565,35.66725686457883,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hakkeijima Sea Paradise, Yokohama, Japan</name>
+      <description><![CDATA[Jellyfish at the Hakkeijima Sea Paradise aquarium.<br>
+<a href="http://kml.lover.googlepages.com/jellyfish.jpg"><img src="http://kml.lover.googlepages.com/sjellyfish.jpg" width=250 height=188><br></a>]]></description>
+      <LookAt>
+        <longitude>139.6355941507961</longitude>
+        <latitude>35.45601903828992</latitude>
+        <range>3871.958762837183</range>
+        <tilt>-8.806599804324109e-012</tilt>
+        <heading>0.003311525229555589</heading>
+      </LookAt>
+      <Point>
+        <coordinates>139.6307464604741,35.45396367064085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>More Hakkeijima Sea Paradise</name>
+      <description><![CDATA[Mmm, fish.<br>
+<a href="http://kml.lover.googlepages.com/fish.jpg"><img src="http://kml.lover.googlepages.com/sfish.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>139.6355941507961</longitude>
+        <latitude>35.45601903829051</latitude>
+        <range>3871.958762840013</range>
+        <tilt>-7.389602380005849e-012</tilt>
+        <heading>0.003311525229526921</heading>
+      </LookAt>
+      <Point>
+        <coordinates>139.6285771919119,35.45547824305126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maritime Museum, Kobe, Japan</name>
+      <description><![CDATA[Last but not least, I visited Kobe.  Here's a twilight shot of the Maritime Museum.<br>
+<a href="http://kml.lover.googlepages.com/kobe.jpg"><img src="http://kml.lover.googlepages.com/skobe.jpg" width=250 height=188></a>]]></description>
+      <LookAt>
+        <longitude>135.1888378086847</longitude>
+        <latitude>34.68257567616274</latitude>
+        <range>640.4160036184612</range>
+        <tilt>-4.328982022024424e-011</tilt>
+        <heading>0.01239661331009164</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.188406331189,34.68292765591631,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chinatown, Kobe, Japan</name>
+      <description><![CDATA[The gate to Kobe's Chinatown.<br>
+<a href="http://kml.lover.googlepages.com/kobechinatown.jpg"><img src="http://kml.lover.googlepages.com/skobechinatown.jpg" width=188 height=250></a>]]></description>
+      <LookAt>
+        <longitude>135.1868660709168</longitude>
+        <latitude>34.6873774324392</latitude>
+        <range>640.4160036184612</range>
+        <tilt>-7.301935096627246e-011</tilt>
+        <heading>0.01127459694912717</heading>
+      </LookAt>
+      <Point>
+        <coordinates>135.1867754867454,34.68774127968659,0</coordinates>
+      </Point>
+    </Placemark>
+</Document>
+</kml>
+
